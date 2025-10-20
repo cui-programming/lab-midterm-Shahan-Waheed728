@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build
+android/
+ios/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Misc
+.DS_Store
+.env
